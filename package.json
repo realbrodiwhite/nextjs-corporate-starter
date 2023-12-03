@@ -15,8 +15,8 @@
     "concurrently": "^8.2.2"
   },
   "engines": {
-    "node": "18.17.0",
-    "npm": "9.6.7",
+    "node": "*",
+    "npm": "*",
     "yarn": "*"
   }
 }
