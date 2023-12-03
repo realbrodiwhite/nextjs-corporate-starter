@@ -13,5 +13,9 @@
   },
   "dependencies": {
     "concurrently": "^8.2.2"
+  },
+  "engines": {
+    "node": ">=14.19.1 <=18.x.x",
+    "npm": ">=6.0.0"
   }
 }
