@@ -1,5 +1,7 @@
 {
   "scripts": {
+    "lint": "next lint",
+    "prettier": "prettier --write .",   
     "frontend": "yarn dev --prefix ../frontend/",
     "backend": "yarn dev --prefix ../backend/",
     "clear": "cd frontend && rm -rf .next && rm -rf cache",
